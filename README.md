@@ -22,7 +22,7 @@ Hi, I'm **Jafar Uddin Dipu**, a Full Stack Developer from Bangladesh with about 
 
 I like taking a project from the first idea all the way to a live product: designing the database, building the API, creating the interface, and deploying it myself.
 
-- 🏠 Built **BetterOffMarket**, a real estate platform for a client, from idea to live. It has map based property search, real time buyer and seller chat, an offer and counter offer workflow, PDF agreements with digital signatures, and an admin panel.
+- 🏠 Built a real estate platform for a client, from idea to live. It has map based property search, real time buyer and seller chat, an offer and counter offer workflow, PDF agreements with digital signatures, and an admin panel.
 - 🧮 Delivered a feature that fills a large PDF template with formula based data and generates charts from the results.
 - 👥 Led a small team on a client project.
 - 🤖 Working with AI technologies, including RAG systems and vector databases.
@@ -39,10 +39,8 @@ Most of my client work is private, so code samples and demos are available on re
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Core Skills**
-
 ![DSA](https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge)
+
 
 **Frontend**
 
@@ -98,10 +96,10 @@ Most of my client work is private, so code samples and demos are available on re
 
 <!-- Replace each link below with your real link -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafar-uddin-dipu-51b9082a7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipujafarmr@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipujafar)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jafaruddindipu_23336)
 [![Previous GitHub](https://img.shields.io/badge/Previous_GitHub-dipujafar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipujafar)
 
 ---
