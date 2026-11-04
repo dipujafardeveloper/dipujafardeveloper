@@ -5,9 +5,11 @@
 
 </div>
 
-> [!Note]
+> [!WARNING]
 > ### 🚨 Important: my main GitHub account is suspended
 > **My main account, [`dipujafar`](https://github.com/dipujafar), was suspended on November 2, 2026.** I have contacted GitHub Support and I am working on getting it back.
+>
+> That account holds my whole journey as a developer: my start in coding about 4 years ago, and 2 years and 3 months of professional development work.
 >
 > Until it is restored, I am sharing my work from this account. Thank you for your patience.
 >
@@ -37,7 +39,10 @@ Most of my client work is private, so code samples and demos are available on re
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-8B5CF6?style=for-the-badge)
+
+**Core Skills**
+
+![DSA](https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge)
 
 **Frontend**
 
