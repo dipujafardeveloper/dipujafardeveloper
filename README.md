@@ -6,7 +6,7 @@
 </div>
 
 > [!note]
-> ### 🚨 Important: my main GitHub account is suspended
+> ### 🚨 Important: My main GitHub account is suspended
 > **My main account, [`dipujafar`](https://github.com/dipujafar), was suspended on November 2, 2026.** I have contacted GitHub Support and I am working on getting it back.
 >
 > That account holds my whole journey as a developer: my start in coding about 4 years ago, and 2 years and 3 months of professional development work.
