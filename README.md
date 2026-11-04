@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: replace banner.svg with your Canva banner later (keep the same file name, or update the path below) -->
-<img src="https://drive.google.com/file/d/1eOGHE_gQRQboEVjVjlpag5hWBhQOKIdB/view" alt="Jafar Uddin Dipu | Full Stack Developer" width="100%" />
+<img src="https://i.ibb.co/rLtjy4P/github-profile-banner.png" alt="Jafar Uddin Dipu | Full Stack Developer" width="100%" />
 
 </div>
 
